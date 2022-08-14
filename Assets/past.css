@@ -106,8 +106,23 @@ main {
 img {
     border-radius: 12px;
     border: 3px solid white;
-    text-align: center;   
+    
 }
+
+.container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 
 
 .contactInfo {
