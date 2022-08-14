@@ -1,5 +1,41 @@
-# Module2_HW
-Module 2 Homework
+# 2 Portfolio
+
+## Description
+- Create a portfolio 
+
+### What was your motivation?
+HTMl and CSS are new, so more practice with them will be benefit me.
+
+### Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+I need a portfolio to shoow that I know how to use HTML, CSS, and other tools. At the same show some of my work
+
+### What problem does it solve?
+Easier way for other see my work and contact me
+
+### What did you learn?
+Front end a lot of fun but is very hard the more custimization you do
+
+## Table of Contents 
+
+-[Installation](#installation)
+-[Usage/Instructions](#Usage/Instructions)
+-[Contributing](#Contributing)
+-[Test](#Test)
+-[Questions](#Questions)
+
+## Installation
+Send to github and post it
+
+
+
+## Contributing
+- Paulo Sergio Condori Pinedo
+
+
+#Questions 
+If you have any questions about the repo, open an issue or contact me directly at paulocondori1@gmail.com. You can find more of my work at pcondori1996)
+
+🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆 🏆`
 
 # 02 Advanced CSS: Portfolio
 
